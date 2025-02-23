@@ -53,7 +53,7 @@ streamlit run app.py
 ## Usage
 
 ### 🌐 Live Demo
-Check out the live app here: [AI-Powered Data Insights & Visualization Assistant](https://data-visualization-app-sairaalmas88.streamlit.app/)
+Check out the live app here: [AI-Powered Data Insights & Visualization Assistant](https://data-visualization-app-sairaalmas-88.streamlit.app/)
 1. Open the application in a browser.
 2. Upload a CSV file.
 3. Explore the dataset using various visualization tools.
